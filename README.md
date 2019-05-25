@@ -4,7 +4,7 @@ This is a demo for [https://github.com/BobTheShoplifter/Socket-mysql-boilerplate
 
 ## Server
 
-The [server](https://github.com/BobTheShoplifter/Socket-mysql-boilerplate) made for this client.
+The client made for this[server](https://github.com/BobTheShoplifter/Socket-mysql-boilerplate).
 
 ## Authors
 
